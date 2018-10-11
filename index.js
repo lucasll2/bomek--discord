@@ -794,4 +794,4 @@ clientDiscord.on('guildMemberAdd', member => {
     }).catch(console.error)
 })
 
-clientDiscord.login('NDk5MTUyMjQ1MTQ5OTI1Mzk2.Dp4HoA.dQ2LgpUPH5SufJsdoqsZUOVr3SU') // Token
+clientDiscord.login('YOURTOKEN') // Token
